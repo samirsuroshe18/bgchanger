@@ -15,7 +15,7 @@ function App() {
             <button className='outline-none px-4 bg-blue-600 py-1 rounded-xl shadow-xl text-white' onClick={() => setColor('blue')}>BLUE</button>
             <button className='outline-none px-4 bg-yellow-600 py-1 rounded-xl shadow-xl text-white' onClick={() => setColor('yellow')}>YELLOW</button>
             <button className='outline-none px-4 bg-purple-600 py-1 rounded-xl shadow-xl text-white' onClick={() => setColor('purple')}>PURPLE</button>
-            <button className='outline-none px-4 bg-pink-600 py-1 rounded-xl shadow-xl text-white' onClick={() => setColor('pink')}>PINK</button>
+            <button className='outline-none px-4 bg-pink-600 py-1 rounded-xl shadow-xl text-white' onClick={() => setColor('green')}>GREEN</button>
             <button className='outline-none px-4 bg-black py-1 rounded-xl shadow-xl  text-white' onClick={() => setColor('black')}>BLACK</button>
           </div>
         </div>
